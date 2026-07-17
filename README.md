@@ -4,15 +4,6 @@
 
 ---
 
-# 📊 Dashboard Preview
-
-> 📌 Add a screenshot of your Power BI dashboard here.
-
-<p align="center">
-  <img src="assets/dashboard.png" width="900">
-</p>
-
----
 
 # 📌 About the Project
 
